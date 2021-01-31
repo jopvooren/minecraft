@@ -1,0 +1,16 @@
+margin: 0;
+body{background-image:url(img/background.jpg);background-size: cover;background-attachment: fixed;}
+
+#wrapper {background-color: #ecedff; padding: 10px; margin: auto;}
+
+header{background-color: #9fa2b2; /*width: 1020px;*/ padding: 5px; margin-bottom: 10px;}
+
+article {background-color: #c0ccb5; width: 240px; height: 240px; margin: 5px 10px 10px 13px; padding: 5px; cursor: pointer;float: left; margin-left: 40px;}
+article:hover {background-color: #ffeae3;cursor: wait;}
+
+#sidebar {background-color: #a9b2a1; width: 320px; height: 750px;  margin-bottom: 10px; float:left; padding: 5px; /*position: fixed:*/ }
+
+footer {clear: both; background-color: #505810; margin-top: 10px; /*width: 1020px;*/}
+
+a {color: black; text-decoration: none;}
+a:hover {color: #ffeae3; cursor: wait;text-decoration: underline;}
